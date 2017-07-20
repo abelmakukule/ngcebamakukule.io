@@ -1,0 +1,256 @@
+/*****************************************************/
+/****General****/
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+  width: 1360px;
+  margin: 0 auto;
+  font-family: tahoma, arial, helvetica, sans-serif;
+  background:#ccc;
+
+}
+a
+{
+	text-decoration:none;
+	color:blue;
+}
+a:hover
+{
+	color:black;
+}
+a:visited
+{
+    color:red;
+}
+
+.message
+{
+	margin:auto;
+	margin-top:10px;
+	padding:15px;
+	background:white;
+	width:900px;
+
+}
+.header
+{
+
+	width:1100px;
+        height: 60px;
+        background: blue;
+}
+.logo
+{
+
+	width:532px;
+        height: 60px;
+}
+
+.footer
+{
+         width:1360px;
+         height: 45px;
+         background: url("pictures/header.png");
+}
+.side
+{
+        float:left;
+	background-color: #ccc;
+	width:250px;
+	margin:auto;
+	padding:20px;
+	margin-top:20px;
+}
+.content
+{
+        float:left;
+	background-color: white;
+	width:770px;
+	margin:auto;
+	padding:20px;
+	margin-top:20px;
+}
+
+  #box {
+  position: relative;
+  width: 1100px;
+  padding: 0.5em;
+  margin: 0 auto; 
+  background: white;
+
+  }
+  
+  #buttons {
+  position: relative;
+  float: right;
+  width: 300px;
+  padding: 0.5em;
+  margin: 0 auto; 
+  background: grey;
+
+  }
+  
+ .center_registration {
+        float: center;
+	width: 530px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background: url("pictures/center_registration.png");
+  } 
+.center {
+        float: center;
+	width: 1000px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background: white;
+
+  }
+  .center1 {
+        float: center;
+	width: 1080px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background: white;
+
+  }
+    .center2 {
+        float: right;
+	width: 500px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background: white;
+
+  }
+  
+ #categories {
+        float: left;
+	width: 120px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:grey;
+        -webkit-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        border-radius: 10px;
+
+  }
+  
+  #categories_inside {
+        float: left;
+	width: 105px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:white;
+        -webkit-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        border-radius: 10px;
+        
+        
+
+  }
+ #categories_content {
+        float: left;
+	width: 240px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:blue;
+
+  }
+   #categories_content_inside {
+        float: left;
+	width: 225px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:white;
+
+  }
+  
+   #categories_outside {
+        float: right;
+	width: 700px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:white;
+
+  }
+   #r_n_l {
+        float: left;
+	width: 865px;
+        height: 430px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:whitesmoke;
+
+  }
+  #inside {
+        float: left;
+	width: 185px;
+	padding: 10px 0;
+        padding: 0.5em;
+        margin: 0 auto;
+        background:white;
+
+  }
+
+  
+ .sidebar1 {
+	float: left;
+	width: 200px;
+        background: white;
+
+        
+}
+
+.logout_btn {
+	float: right;
+	width: 50px;
+        background:whitesmoke;
+
+}
+h6{
+    color: white;
+    font-size: 0.8em;
+    text-align:center;
+}
+h5{
+    color: white;
+    font-size: 1em;
+    text-align:left;
+}
+h4{
+    color: grey;
+    font-size: 1em;
+    text-align:left;
+}
+h2
+{
+    color: red;
+    font-size: 0.9em;
+    text-align:center;
+}
+h1{
+    color: green;
+    font-size: 0.9em;
+    text-align:center;
+}
+
+
